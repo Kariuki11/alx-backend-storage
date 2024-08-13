@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon July 17 16:00:00 2023
 
-@Author: Nicanor Kyamba
-"""
+
 from pymongo import MongoClient
 
 
