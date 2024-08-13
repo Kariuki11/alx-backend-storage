@@ -2,4 +2,3 @@ db = db.getSiblingDB('my_db'); // Replace 'my_db' with the database name passed 
 db.school.insertOne({
   name: "Holberton school"
 });
-
