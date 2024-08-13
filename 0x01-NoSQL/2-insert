@@ -1,4 +1,2 @@
-db = db.getSiblingDB('my_db'); // Replace 'my_db' with the database name passed as an option
-db.school.insertOne({
-  name: "Holberton school"
-});
+// Inserts document.
+db.school.insert({ name : "Holberton school" })
