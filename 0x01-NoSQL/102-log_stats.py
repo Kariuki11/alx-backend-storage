@@ -1,12 +1,6 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue August  17 17:00:00 2024
-
-@Author: Kenneth Kariuki
-"""
+""" MongoDB Operations with Python using pymongo """
 from pymongo import MongoClient
-
 
 if __name__ == "__main__":
     """ Provides some stats about Nginx logs stored in MongoDB """
